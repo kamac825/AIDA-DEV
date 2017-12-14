@@ -1,0 +1,10 @@
+C:\Users\craposo\Documents\Visual Studio 2015\Projects\Despression Helper\Depression Helper\bin\Release\a.i.d.a.exe.config
+C:\Users\craposo\Documents\Visual Studio 2015\Projects\Despression Helper\Depression Helper\bin\Release\a.i.d.a.exe
+C:\Users\craposo\Documents\Visual Studio 2015\Projects\Despression Helper\Depression Helper\bin\Release\a.i.d.a.pdb
+C:\Users\craposo\Documents\Visual Studio 2015\Projects\Despression Helper\Depression Helper\bin\Release\a.i.d.a.xml
+C:\Users\craposo\Documents\Visual Studio 2015\Projects\Despression Helper\Depression Helper\obj\Release\a.i.d.a_depression.Resources.resources
+C:\Users\craposo\Documents\Visual Studio 2015\Projects\Despression Helper\Depression Helper\obj\Release\Depression Helper.vbproj.GenerateResource.Cache
+C:\Users\craposo\Documents\Visual Studio 2015\Projects\Despression Helper\Depression Helper\obj\Release\a.i.d.a.exe
+C:\Users\craposo\Documents\Visual Studio 2015\Projects\Despression Helper\Depression Helper\obj\Release\a.i.d.a.xml
+C:\Users\craposo\Documents\Visual Studio 2015\Projects\Despression Helper\Depression Helper\obj\Release\a.i.d.a.pdb
+C:\Users\craposo\Documents\Visual Studio 2015\Projects\Despression Helper\Depression Helper\obj\Release\Depression Helper.vbprojResolveAssemblyReference.cache
